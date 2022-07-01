@@ -124,12 +124,15 @@ Identificar los circuitos en serie-paralelo (circuito mixto),y a su vez los divi
 10)Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
 
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%207/10.png)
+
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%207/10.1.png)
 
 12)Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje.
 
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%207/12.png)
+
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%207/12.1.png)
+
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%207/12.2.png)
 
 14) Determine la resistencia entre A y B en la figura 7-67 sin la fuente
@@ -244,6 +247,7 @@ de la rama R2 de la figura 8-69
 10)Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
 
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/10.png)
+
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/10.1.png)
 
 12)Repita el problema 11 si R2 es de 10 kÆ
@@ -253,7 +257,9 @@ de la rama R2 de la figura 8-69
 14). Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.
 
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/14.png)
+
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/14.1.png)
+
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/14.2.png)
 
 16). Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
@@ -263,7 +269,9 @@ de la rama R2 de la figura 8-69
 18)Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78
 
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/18.png)
+
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/18.1.png)
+
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/18.2.png)
 
 20)Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kÆ, 5 kÆ, y 10 kÆ en la figura 8-80. 
@@ -282,6 +290,7 @@ de la rama R2 de la figura 8-69
 R8 8 kÆ.
 
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/26.png)
+
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/26.1.png)
 
 28)En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
@@ -304,6 +313,7 @@ R8 8 kÆ.
 36). Determine todas las corrientes que circulan en el circuito de la figura 8-90.
 
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/36.png)
+
 ![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/36.1.png)
 
 
