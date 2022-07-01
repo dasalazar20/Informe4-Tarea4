@@ -315,10 +315,11 @@ https://www.youtube.com/watch?v=Obl2klFz520
 
 CAPITULO 7
 
-  
+Al momento de la redacción y resolución de los ejercicios del capítulo 6 de “Principios de Circuitos Eléctricos” de Floyd se logro identificar circuitos serie – paralelo más conocidos como circuitos mixtos y a su vez las diferentes relaciones que tiene dicho circuito. Se logro reconocer los divisores de voltaje con cargas o sin cargas resistivas y por último se analizó las redes de escaleras y el puente de Wheatstone que se puede presentar en los circuitos serie – paralelo y el par las diferentes fallas que se pueda localizar mediante un buen análisis del circuito serie – paralelo.
  
 CAPITULO 8
 
+Al realizar la redacción y resolución de los ejercicios del capítulo 8 de “Principios de Circuitos Eléctricos” de Floyd se analizo los diferentes teoremas de circuitos que fueron el teorema de Superposición., teorema de Thévenin, teorema de Norton y teorema de Trasferencia de potencia máxima, en capítulos anteriores ya se a estudiado lo que es fuente de voltaje y fuente de corriente, pero en este capítulo se reforzo más los dos conceptos y para finalizar se realizo distintas conversiones de delta a Y y de Y a delta en un circuito.
 
 
 # 6. BIBLIOGRAFIA
