@@ -276,15 +276,19 @@ de la rama R2 de la figura 8-69
 
 20)Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kÆ, 5 kÆ, y 10 kÆ en la figura 8-80. 
 
-![]()
+![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/20.png)
+
+![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/20.1.png)
+
+![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/20.2.png)
 
 22)Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
 
-![]()
+![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/2.png)
 
 24)Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77
 
-![]()
+![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%208/24.png)
 
 26)Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando
 R8 8 kÆ.
