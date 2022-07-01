@@ -134,28 +134,28 @@ Identificar los circuitos en serie-paralelo (circuito mixto),y a su vez los divi
 
 14) Determine la resistencia entre A y B en la figura 7-67 sin la fuente
 
-![]()
+![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%207/14.png)
 
 16) Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68
 
-![]()
+![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%207/16.png)
 
 18) Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.
 
-![]()
+![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%207/18.png)
 
 20) Determine el voltaje, VAB, en la figura 7-69
 
-![]()
+![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%207/20.png)
 
 22)En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC,
 RAD, RAE, RAF, y RAG)
 
-![]()
+![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%207/22.png)
 
 24)Determine el valor de cada resistor mostrado en la figura 7-73.
 
-![]()
+![](https://github.com/dasalazar20/Informe4-Tarea4/blob/main/Ejercicios/Capitulo%207/24.png)
 
 26)La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kÆ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kÆ a la más alta de las salidas, ¿cuál será su valor con carga?
 
