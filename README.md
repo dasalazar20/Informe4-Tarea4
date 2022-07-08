@@ -329,7 +329,7 @@ https://www.youtube.com/watch?v=ZUJWuG2jWnQ
 
 CAPITULO 7
 
-Al momento de la redacción y resolución de los ejercicios del capítulo 6 de “Principios de Circuitos Eléctricos” de Floyd se logro identificar circuitos serie – paralelo más conocidos como circuitos mixtos y a su vez las diferentes relaciones que tiene dicho circuito. Se logro reconocer los divisores de voltaje con cargas o sin cargas resistivas y por último se analizó las redes de escaleras y el puente de Wheatstone que se puede presentar en los circuitos serie – paralelo y el par las diferentes fallas que se pueda localizar mediante un buen análisis del circuito serie – paralelo.
+Al momento de la redacción y resolución de los ejercicios del capítulo 7 de “Principios de Circuitos Eléctricos” de Floyd se logro identificar circuitos serie – paralelo más conocidos como circuitos mixtos y a su vez las diferentes relaciones que tiene dicho circuito. Se logro reconocer los divisores de voltaje con cargas o sin cargas resistivas y por último se analizó las redes de escaleras y el puente de Wheatstone que se puede presentar en los circuitos serie – paralelo y el par las diferentes fallas que se pueda localizar mediante un buen análisis del circuito serie – paralelo.
  
 CAPITULO 8
 
